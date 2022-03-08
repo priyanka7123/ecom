@@ -6,8 +6,10 @@ $route['default_controller']   = 'web';
 $route['404_override']         = 'web/error';
 $route['translate_uri_dashes'] = false;
 
-//Web Route
+// USER Route
+$route['userinfo']             = 'user/userinfo';
 
+//Web Route
 $route['product']             = 'web/product';
 $route['single/(:num)']       = 'web/single/$1';
 $route['contact']             = 'web/contact';
