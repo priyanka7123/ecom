@@ -1,4 +1,3 @@
-<!-- start: Content -->
 <div id="content" class="span10">
 
 
@@ -45,7 +44,8 @@
         <div class="clearfix"></div>
         <hr>
 
-    </div><!--/row-->
+    </div>
+
 
     <div class="row-fluid">
         <div class="span3"></div>
@@ -65,6 +65,4 @@
 
 
 
-</div><!--/.fluid-container-->
-
-<!-- end: Content -->
+</div>
